@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    color: #0d3b8c;
+}
+
+header {
+    background-color: #001196;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+button {
+    width: 100%;
+    margin-top: 15px;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #001196;
+    color: white;
+}
+
+div {
+    margin-top: 20px;
+    font-size: 18px;
+}
